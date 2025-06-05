@@ -28,8 +28,8 @@ public class WaterHeater {
                     // print the energy required to heat the water
                 System.out.println("Energy required to heat the water: " + energy + " Joules");
             
-                scanner.close();
-    }
+                    scanner.close();
+        }
     }
 
 
